@@ -15,7 +15,7 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
   - Ignacio Ortiz Moreno (https://github.com/IgnacioOrtizMoreno)
   - Jesús Aznar Montero (https://github.com/jesaznmon23)
 - **Project description**: Nuestro trabajo consiste en...
-- **Repository**: [gti-sos/SOS2324-00](https://github.com/gti-sos/SOS2324-00)
+- **Repository**: [gti-sos/SOS2425-10](https://github.com/gti-sos/SOS2425-10)
 - **URL**: TBD
 -  **APIs**:
     - TBD
