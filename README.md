@@ -106,3 +106,18 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
     - TBD
     - TBD
     - TBD
+ 
+  ## SOS2425-19
+
+- **Team**
+  - Daniel Lebrero Carcela (https://github.com/DaniLebrero)
+  - Julián Villaescusa Fernández(https://github.com/julvilfer1)
+  - Mario Rodríguez Carrillo (https://github.com/marrodcar35)
+  - Juan Manuel Ríos López (https://github.com/juariolop1)
+- **Project description**: Nuestro trabajo consiste en...
+- **Repository**: [gti-sos/SOS2425-19](https://github.com/gti-sos/SOS2425-19)
+- **URL**: TBD
+-  **APIs**:
+    - TBD
+    - TBD
+    - TBD
