@@ -78,6 +78,20 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
     - TBD
     - TBD
     - TBD
+ 
+ ## SOS2425-16
+
+- **Team**
+  - Gonzalo Aguilera Mancheño (https://github.com/TheVaultBoy16)
+  - Pablo Viña Santa Cruz (https://github.com/nfn8347)
+  - Iván Barbero Lay (https://github.com/ivabarlay)
+- **Project description**: Nuestro trabajo consiste en...
+- **Repository**: https://github.com/gti-sos/SOS2425-16
+- **URL**: TBD
+-  **APIs**:
+    - TBD
+    - TBD
+    - TBD
 
  ## SOS2425-18
 
