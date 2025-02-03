@@ -50,3 +50,17 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
     - TBD
     - TBD
     - TBD
+
+ ## SOS2425-14
+
+- **Team**
+  - Francisco Javier Rodríguez Martín (https://github.com/Frarodmar19)
+  - Pablo Domínguez Galván (https://github.com/pabdomgal)
+  - Jaime Duffy Panés (https://github.com/jaimeduffy)
+- **Project description**: Nuestro trabajo consiste en...
+- **Repository**: [gti-sos/SOS2425-14](https://github.com/gti-sos/SOS2425-14)
+- **URL**: TBD
+-  **APIs**:
+    - TBD
+    - TBD
+    - TBD
