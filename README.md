@@ -128,7 +128,7 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
   - Carlos Marmol Ramírez (https://github.com/carlosmarmol)
   - Javier Andrade Castro (https://github.com/javandcas)
 - **Project description**: Nuestro trabajo consiste en...
-- **Repository**: [gti-sos/SOS2425-20](https://github.com/gti-sos/SOS2425-20)
+- **Repository**: [gti-sos/SOS2425-20](https://github.com/orgs/gti-sos/teams/sos2425-20)
 - **URL**: TBD
 -  **APIs**:
     - TBD
