@@ -27,7 +27,7 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
   - Mario Tur Pantión (https://github.com/mariotuur)
   - Antonio Manuel Luque Molina (https://github.com/antluqmol1)
 - **Project description**: Nuestro trabajo consiste en...
-- **Repository**: [gti-sos/SOS2324-00](https://github.com/gti-sos/SOS2425-11)
+- **Repository**: [gti-sos/SOS2425-11](https://github.com/gti-sos/SOS2425-11)
 - **URL**: TBD
 -  **APIs**:
     - TBD
