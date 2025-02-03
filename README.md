@@ -86,7 +86,7 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
   - Guillermo Blanco Díaz (https://github.com/GuilleBlanco08)
   - Miguel Ángel Domínguez Ciero (https://github.com/migdomcie)
 - **Project description**: Nuestro trabajo consiste en...
-- **Repository**: [gti-sos/SOS2425-14](https://github.com/gti-sos/SOS2425-18)
+- **Repository**: [gti-sos/SOS2425-18](https://github.com/gti-sos/SOS2425-18)
 - **URL**: TBD
 -  **APIs**:
     - TBD
