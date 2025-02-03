@@ -51,6 +51,20 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
     - TBD
     - TBD
 
+  ## SOS2425-13
+
+- **Team**
+  - [Darío López Villegas](https://github.com/darlopvil)
+  - [Blanca García Alonso](https://github.com/blancagrclns)
+  - [Álvaro Morillo Navajas](https://github.com/alvmornav)
+- **Project description**: Nuestro trabajo consiste en...
+- **Repository**: [gti-sos/SOS2324-00](https://github.com/gti-sos/SOS2324-00)
+- **URL**: TBD
+-  **APIs**:
+    - TBD
+    - TBD
+    - TBD
+
  ## SOS2425-14
 
 - **Team**
