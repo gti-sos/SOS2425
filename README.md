@@ -8,12 +8,12 @@ Lecturer:
 List of projects registered in the course of **Service Oriented Systems** (2023/2024):
 --
 
-## SOS2324-00
+## SOS2425-10
 
 - **Team**
-  - [Nombre Apellido1 Apellido2](https://github.com/usuarioGIthub)
-  - [Nombre Apellido1 Apellido2](https://github.com/usuarioGIthub)
-  - [Nombre Apellido1 Apellido2](https://github.com/usuarioGIthub)
+  - Víctor José Cabrera Hurtado (https://github.com/viccabhur10)
+  - Ignacio Ortiz Moreno (https://github.com/IgnacioOrtizMoreno)
+  - Jesús Aznar Montero (https://github.com/jesaznmon23)
 - **Project description**: Nuestro trabajo consiste en...
 - **Repository**: [gti-sos/SOS2324-00](https://github.com/gti-sos/SOS2324-00)
 - **URL**: TBD
