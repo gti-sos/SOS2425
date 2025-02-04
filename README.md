@@ -92,6 +92,21 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
     - TBD
     - TBD
     - TBD
+ 
+
+  ## SOS2425-17
+
+- **Team**
+  - Javier Guerrero Pérez (https://github.com/Javiigp)
+  - Alejandro Gaona Penco (https://github.com/alegp2003)
+  - Pablo Aguza Barragán (https://github.com/aguzajr)
+- **Project description**: Nuestro trabajo consiste en...
+- **Repository**: [gti-sos/SOS2425-17](https://github.com/gti-sos/SOS2425-17)
+- **URL**: TBD
+-  **APIs**:
+    - TBD
+    - TBD
+    - TBD
 
  ## SOS2425-18
 
