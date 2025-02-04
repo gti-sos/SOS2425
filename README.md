@@ -149,4 +149,16 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
     - TBD
     - TBD
     - TBD
-      
+## SOS2425-21
+
+- **Team**
+  - Paula Ruiz Gardón (https://github.com/pauruigar6)
+  - Andrea Gómez Balmaseda (https://github.com/andgombal)
+  - Laura Eraso Lorenzo (https://github.com/laueralor)
+- **Project description**: Nuestro trabajo consiste en...
+- **Repository**: [gti-sos/SOS2425-21](https://github.com/orgs/gti-sos/teams/sos2425-21)
+- **URL**: TBD
+-  **APIs**:
+    - TBD
+    - TBD
+    - TBD
