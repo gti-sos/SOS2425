@@ -44,7 +44,7 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
   - Clara Reina Romero (https://github.com/clarareina)
   - Gonzalo Osuna Salas (https://github.com/gxnzalx55)
 - *Project description*: Nuestro trabajo consiste en...
-- *Repository*: [gti-sos/SOS2324-00](https://github.com/gti-sos/SOS2425-12)
+- *Repository*: [gti-sos/SOS2425-12](https://github.com/gti-sos/SOS2425-12)
 - *URL*: TBD
 -  *APIs*:
     - TBD
