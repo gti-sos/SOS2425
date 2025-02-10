@@ -143,7 +143,7 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
   - Julián Villaescusa Fernández(https://github.com/julvilfer1)
   - Mario Rodríguez Carrillo (https://github.com/marrodcar35)
   - Juan Manuel Ríos López (https://github.com/juariolop1)
-- **Project description**: Nuestro trabajo consiste en...
+- **Project description**: Our sources of information are focused on analyzing the number of driving test pass rates throughout October 2020, the sanctions that occurred in different municipalities of Spain during 2022, the changes in vehicle ownership during 2023 and the population affected by pollution-related issues over the years.
 - **Repository**: [gti-sos/SOS2425-19](https://github.com/gti-sos/SOS2425-19)
 - **URL**: TBD
 -  **APIs**:
