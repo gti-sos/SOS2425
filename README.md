@@ -128,7 +128,8 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
   - Miguel Vázquez de la Rubia (https://github.com/Mikyvaz)
   - Guillermo Blanco Díaz (https://github.com/GuilleBlanco08)
   - Miguel Ángel Domínguez Ciero (https://github.com/migdomcie)
-- **Project description**: Nuestro trabajo consiste en...
+- **Project description**: Our work consists on analyzing grants and subsidies from the Generalitat Valenciana, employment                                  contracts by municipality, gender, age, and sector, and temporary employment regulation files (ERTE). Trends in aid distribution, employment evolution,
+and the most in-demand occupations are compared, allowing assessment of their impact on different sectors and populations.
 - **Repository**: [gti-sos/SOS2425-18](https://github.com/gti-sos/SOS2425-18)
 - **URL**: TBD
 -  **APIs**:
