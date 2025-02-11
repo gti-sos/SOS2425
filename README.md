@@ -67,9 +67,9 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
 ## SOS2425-14
 
 - **Team**
-  - Francisco Javier Rodríguez Martín (https://github.com/Frarodmar19)
-  - Pablo Domínguez Galván (https://github.com/pabdomgal)
-  - Jaime Duffy Panés (https://github.com/jaimeduffy)
+  - [Francisco Javier Rodríguez Martín](https://github.com/Frarodmar19)
+  - [Pablo Domínguez Galván](https://github.com/pabdomgal)
+  - [Jaime Duffy Panés](https://github.com/jaimeduffy)
   
 - **Project description**:  
   This project aims to analyze three datasets to identify potential correlations and trends between different socioeconomic factors. The datasets include:
