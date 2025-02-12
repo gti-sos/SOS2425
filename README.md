@@ -14,7 +14,7 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
   - Víctor José Cabrera Hurtado (https://github.com/viccabhur10)
   - Ignacio Ortiz Moreno (https://github.com/IgnacioOrtizMoreno)
   - Jesús Aznar Montero (https://github.com/jesaznmon23)
-- **Project description**: Nuestro trabajo consiste en...
+- **Project description**: Our project is aimed at analyzing the relationship between radar data, accidents and registrations.
 - **Repository**: [gti-sos/SOS2425-10](https://github.com/gti-sos/SOS2425-10)
 - **URL**: TBD
 -  **APIs**:
