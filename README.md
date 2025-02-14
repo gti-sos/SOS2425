@@ -110,7 +110,7 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
   - Pablo Viña Santa Cruz (https://github.com/nfn8347)
   - Iván Barbero Lay (https://github.com/ivabarlay)
 - **Project description**: Our work consists of analyzing the relationship between unemployment, emigration and tax increases in Spain with an API that is able to unify these data for the different analyses.
-- **Repository**: https://github.com/gti-sos/SOS2425-16
+- **Repository**: [gti-sos/SOS2425-16](https://github.com/gti-sos/SOS2425-16)
 - **URL**: TBD
 -  **APIs**:
     - TBD
