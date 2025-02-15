@@ -95,7 +95,7 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
   - Manuel Jiménez Martín (https://github.com/manueljm56)
   - Fernando Lagares Luna (https://github.com/FernandoLagaresLuna)
   - Gonzalo Gavilán Turiño (https://github.com/GonzaloGavilan2002)
-- **Project description**: Nuestro trabajo consiste en...
+- **Project description**: Our project consists of analyzing the accumulated rainfall of different provinces and finding the relationship with agricultural production.
 - **Repository**: [gti-sos/SOS2425-15](https://github.com/gti-sos/SOS2425-15)
 - **URL**: TBD
 -  **APIs**:
