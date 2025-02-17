@@ -57,9 +57,13 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
   - [Darío López Villegas] (https://github.com/darlopvil)
   - [Blanca García Alonso] (https://github.com/blancagrclns)
   - [Álvaro Morillo Navajas] (https://github.com/alvmornav)
+
 - **Project description**: Wildfires affect water quality by increasing erosion and sedimentation, impacting water supply. National parks protect key watersheds but are vulnerable to fires that alter their ecosystem and water availability.
-- **Repository**: [Respositorio grupal: gti-sos/SOS2425-13](https://github.com/gti-sos/SOS2425-13)
+
+- **Repository**: [gti-sos/SOS2425-13](https://github.com/gti-sos/SOS2425-13)
+
 - **URL**: TBD
+
 -  **APIs**:
     - TBD
     - TBD
