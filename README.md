@@ -124,7 +124,7 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
   - Javier Guerrero Pérez (https://github.com/Javiigp)
   - Alejandro Gaona Penco (https://github.com/alegp2003)
   - Pablo Aguza Barragán (https://github.com/aguzajr)
-- **Project description**: our work consist in...
+- **Project description**: our sources of information are aimed at analyzing the relationship that exists between alcohol consumption by province, the number of liver diseases by province and the number of deaths by province in 2019.
 - **Repository**: [gti-sos/SOS2425-17](https://github.com/gti-sos/SOS2425-17)
 - **URL**: TBD
 -  **APIs**:
