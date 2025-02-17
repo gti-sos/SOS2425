@@ -33,7 +33,7 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
 - **URL**: TBD
 -  **APIs**:
     - TBD
-    - TBD  
+    - TBD   
     - TBD
 
  
