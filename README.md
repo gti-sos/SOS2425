@@ -170,7 +170,7 @@ and the most in-demand occupations are compared, allowing assessment of their im
 - **Project description**:
 - Traffic Incidents Analysis and Visualization
 Our project focuses on analyzing and visualizing traffic-related incidents in Spain. We collect and process data on road accidents, traffic violations, and animal-related collisions to identify trends, assess risk factors, and provide insights
-- **Repository**: [gti-sos/SOS2425-20](https://github.com/orgs/gti-sos/teams/sos2425-20)
+- **Repository**: [gti-sos/SOS2425-20](https://github.com/gti-sos/SOS2425-20)
 - **URL**: TBD
 -  **APIs**:
     - TBD
