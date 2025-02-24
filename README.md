@@ -14,14 +14,14 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
   - Víctor José Cabrera Hurtado (https://github.com/viccabhur10)
   - Ignacio Ortiz Moreno (https://github.com/IgnacioOrtizMoreno)
   - Jesús Aznar Montero (https://github.com/jesaznmon23)
-- **Project description**: Our project is aimed at analyzing the relationship between radar, accidents  and registrations data.
+- **Project description**: Our project is aimed at analyzing the relationship between radars, accidents  and registrations data.
 - **Repository**: [gti-sos/SOS2425-10](https://github.com/gti-sos/SOS2425-10)
 - **URL**: TBD
 -  **APIs**:
     - TBD
     - TBD
     - TBD
-
+ 
 ## SOS2425-11
 
 - **Team**
@@ -33,7 +33,7 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
 - **URL**: TBD
 -  **APIs**:
     - TBD
-    - TBD
+    - TBD   
     - TBD
 
  
@@ -99,9 +99,9 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
   - Manuel Jiménez Martín (https://github.com/manueljm56)
   - Fernando Lagares Luna (https://github.com/FernandoLagaresLuna)
   - Gonzalo Gavilán Turiño (https://github.com/GonzaloGavilan2002)
-- **Project description**: Our project consists of analyzing the accumulated rainfall of different provinces and finding the relationship with agricultural production.
-- **Repository**: [gti-sos/repositorio-SOS2425-15](https://github.com/gti-sos/repositorio-SOS2425-15)
-- **URL**: TBDD
+- **Project description**: Our project consists of analyzing the accumulated rainfall of different provinces and finding the relationship with agricultural production and average temperature.
+- **Repository**: [gti-sos/SOS2425-15](https://github.com/gti-sos/SOS2425-15)
+- **URL**: TBD
 -  **APIs**:
     - TBD
     - TBD
@@ -128,7 +128,7 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
   - Javier Guerrero Pérez (https://github.com/Javiigp)
   - Alejandro Gaona Penco (https://github.com/alegp2003)
   - Pablo Aguza Barragán (https://github.com/aguzajr)
-- **Project description**: our work consist in...
+- **Project description**: Our sources of information are aimed at analyzing the relationship that exists between university demands, student satisfaction, and academic performance in different universities of Extremadura.
 - **Repository**: [gti-sos/SOS2425-17](https://github.com/gti-sos/SOS2425-17)
 - **URL**: TBD
 -  **APIs**:
@@ -157,8 +157,7 @@ and the most in-demand occupations are compared, allowing assessment of their im
   - Daniel Lebrero Carcela (https://github.com/DaniLebrero)
   - Julián Villaescusa Fernández(https://github.com/julvilfer1)
   - Mario Rodríguez Carrillo (https://github.com/marrodcar35)
-  - Juan Manuel Ríos López (https://github.com/juariolop1)
-- **Project description**: Our sources of information are focused on analyzing the number of driving test pass rates throughout October 2020, the sanctions that occurred in different municipalities of Spain during 2022, the changes in vehicle ownership during 2023 and the accident rate during 2023.
+- **Project description**: Our sources of information are focused on analyzing the sanctions that occurred in different municipalities of Spain during 2022, the changes in vehicle ownership during 2023 and the accident rate during 2023.
 - **Repository**: [gti-sos/SOS2425-19](https://github.com/gti-sos/SOS2425-19)
 - **URL**: TBD
 -  **APIs**:
@@ -172,8 +171,10 @@ and the most in-demand occupations are compared, allowing assessment of their im
   - José Calle Jiménez (https://github.com/Josecj11)
   - Carlos Marmol Ramírez (https://github.com/carlosmarmol)
   - Javier Andrade Castro (https://github.com/javandcas)
-- **Project description**: Nuestro trabajo consiste en...
-- **Repository**: [gti-sos/SOS2425-20](https://github.com/orgs/gti-sos/teams/sos2425-20)
+- **Project description**:
+- Traffic Incidents Analysis and Visualization
+Our project focuses on analyzing and visualizing traffic-related incidents in Spain. We collect and process data on road accidents, traffic violations, and animal-related collisions to identify trends, assess risk factors, and provide insights
+- **Repository**: [gti-sos/SOS2425-20](https://github.com/gti-sos/SOS2425-20)
 - **URL**: TBD
 -  **APIs**:
     - TBD
@@ -188,6 +189,20 @@ and the most in-demand occupations are compared, allowing assessment of their im
   - Alejandro Morilla García (https://github.com/aaleejandro01)
 - **Project description**: Our project consists of analyzing the relationship between official data on urban bus transportation usage, the celebration of cultural events, and the buying and selling of homes in Spain.
 - **Repository**: [gti-sos/SOS2425-21](https://github.com/orgs/gti-sos/teams/sos2425-21)
+- **URL**: TBD
+-  **APIs**:
+    - TBD
+    - TBD
+    - TBD
+
+## SOS2425-22
+
+- **Team**
+  - Juan Manuel Ríos López (https://github.com/juariolop1)
+  - Gabriel Cascajosa Rina (https://github.com/gabiclone)
+  - Alejandro Morilla García (https://github.com/aaleejandro01)
+- **Project description**: Por definir.
+- **Repository**: [gti-sos/SOS2425-22](https://github.com/orgs/gti-sos/teams/sos2425-22)
 - **URL**: TBD
 -  **APIs**:
     - TBD
