@@ -111,7 +111,7 @@ This comprehensive approach will contribute to the development of more efficient
   - Gonzalo Gavilán Turiño (https://github.com/GonzaloGavilan2002)
 - **Project description**: Our project consists of analyzing the accumulated rainfall of different provinces and finding the relationship with agricultural production and average temperature.
 - **Repository**: [gti-sos/SOS2425-15](https://github.com/gti-sos/SOS2425-15)
-- **URL**: https://sos2425-16.onrender.com/
+- **URL**: TBD
 -  **APIs**:
     - TBD
     - TBD
@@ -125,7 +125,7 @@ This comprehensive approach will contribute to the development of more efficient
   - Iván Barbero Lay (https://github.com/ivabarlay)
 - **Project description**: Our work consists of analyzing the relationship between unemployment, emigration and tax increases in Spain with an API that is able to unify these data for the different analyses.
 - **Repository**: [gti-sos/SOS2425-16](https://github.com/gti-sos/SOS2425-16)
-- **URL**: TBD
+- **URL**: https://sos2425-16.onrender.com/
 -  **APIs**:
     - TBD
     - TBD
