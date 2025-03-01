@@ -155,7 +155,7 @@ This comprehensive approach will contribute to the development of more efficient
 - **Project description**: Our work consists on analyzing grants and subsidies from the Generalitat Valenciana, employment                                  contracts by municipality, gender, age, and sector, and temporary employment regulation files (ERTE). Trends in aid distribution, employment evolution,
 and the most in-demand occupations are compared, allowing assessment of their impact on different sectors and populations.
 - **Repository**: [gti-sos/SOS2425-18](https://github.com/gti-sos/SOS2425-18)
-- **URL**: [sos2425-18.onrender.com] https://sos2425-18.onrender.com
+- **URL**: https://sos2425-18.onrender.com
 -  **APIs**:
     - TBD
     - TBD
