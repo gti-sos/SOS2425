@@ -54,25 +54,17 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
   ## SOS2425-13
 
 - **Team**
-  - [Darío López Villegas] (https://github.com/darlopvil)
-  - [Blanca García Alonso] (https://github.com/blancagrclns)
-  - [Álvaro Morillo Navajas] (https://github.com/alvmornav)
-<<<<<<< HEAD
-
-- **Project description**: Wildfires affect water quality by increasing erosion and sedimentation, impacting water supply. National parks protect key watersheds but are vulnerable to fires that alter their ecosystem and water availability.
-
-- **Repository**: [gti-sos/SOS2425-13](https://github.com/gti-sos/SOS2425-13)
-
-=======
+  - [Darío López Villegas](https://github.com/darlopvil)
+  - [Blanca García Alonso](https://github.com/blancagrclns)
+  - [Álvaro Morillo Navajas](https://github.com/alvmornav)
 - **Project description**: Our project is based on the integration of data on forest fires, natural parks, 
 and water supply aid, aiming to analyze the relationship between the availability of this resource
 and its impact on environmental and social management. Through this data convergence, we seek to identify
 patterns that enhance fire prevention and response, optimize ecosystem conservation in protected areas,
 and assess the effectiveness of subsidies aimed at mitigating water scarcity in vulnerable municipalities.
 This comprehensive approach will contribute to the development of more efficient and sustainable strategies for managing water as an essential resource.
-- **Repository**: [Respositorio grupal: gti-sos/SOS2425-13](https://github.com/gti-sos/SOS2425-13)
->>>>>>> c23df162dad828fb015726b5b8a1d5fbe61c8a91
-- **URL**: TBD
+- **Repository**: [gti-sos/SOS2425-13](https://github.com/gti-sos/SOS2425-13)
+- **URL**: [sos2425-13.onrender.com](https://sos2425-13.onrender.com/)
 
 -  **APIs**:
     - TBD
