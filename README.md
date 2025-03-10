@@ -63,13 +63,15 @@ and its impact on environmental and social management. Through this data converg
 patterns that enhance fire prevention and response, optimize ecosystem conservation in protected areas,
 and assess the effectiveness of subsidies aimed at mitigating water scarcity in vulnerable municipalities.
 This comprehensive approach will contribute to the development of more efficient and sustainable strategies for managing water as an essential resource.
+
 - **Repository**: [gti-sos/SOS2425-13](https://github.com/gti-sos/SOS2425-13)
 - **URL**: [sos2425-13.onrender.com](https://sos2425-13.onrender.com/)
 
 -  **APIs**:
-    - TBD
-    - TBD
-    - TBD
+  - <p><a href="https://sos2425-13.onrender.com/samples/BGA" target="_blank">Blanca García Alonso</a></p>
+  - <p><a href="https://sos2425-13.onrender.com/samples/DLV" target="_blank">Darío López Villegas</a></p>
+  - <p><a href="https://sos2425-13.onrender.com/samples/AMN" target="_blank">Alvaro Morillo Navajas</a></p>
+
 
 ## SOS2425-14
 
