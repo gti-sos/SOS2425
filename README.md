@@ -69,7 +69,7 @@ This comprehensive approach will contribute to the development of more efficient
 
 -  **APIs**:
   <p><a href="https://sos2425-13.onrender.com/api/v1/water-supply-improvements " target="_blank">Blanca García Alonso</a></p>
-  <p><a href="https://sos2425-13.onrender.com/samples/DLV" target="_blank">Darío López Villegas</a></p>
+  <p><a href="https://sos2425-13.onrender.com/api/v1/national-parks" target="_blank">Darío López Villegas</a></p>
   <p><a href="https://sos2425-13.onrender.com/samples/AMN" target="_blank">Alvaro Morillo Navajas</a></p>
 
 
