@@ -91,9 +91,9 @@ This comprehensive approach will contribute to the development of more efficient
 - **Repository**: [gti-sos/SOS2425-14](https://github.com/gti-sos/SOS2425-14)  
 - **URL**: https://sos2425-14.onrender.com
 - **APIs**:  
-  - TBD  
-  - TBD  
-  - TBD  
+  - https://sos2425-14.onrender.com/api/v1/education-data/docs (developed by Francisco Javier Rodríguez Martín)
+  - https://sos2425-14.onrender.com/api/v1/cybercrime-data/docs (developed by Pablo Domínguez Galván)
+  - https://sos2425-14.onrender.com/api/v1/employment-data/docs (developed by Jaime Duffy Panés)
 
 
 ## SOS2425-15
