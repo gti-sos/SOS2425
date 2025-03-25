@@ -120,7 +120,7 @@ This comprehensive approach will contribute to the development of more efficient
 - **Repository**: [gti-sos/SOS2425-16](https://github.com/gti-sos/SOS2425-16)
 - **URL**: https://sos2425-16.onrender.com/
 -  **APIs**:
-    - https://sos2425-16.onrender.com/api/v1/emigration-stats
+    - https://sos2425-16.onrender.com/api/v1/emigration-stats/docs (Developed by Gonzalo Aguilera Mancheño)
     - TBD
     - TBD
  
