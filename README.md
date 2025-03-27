@@ -165,7 +165,7 @@ and the most in-demand occupations are compared, allowing assessment of their im
 - **Repository**: [gti-sos/SOS2425-19](https://github.com/gti-sos/SOS2425-19)
 - **URL**: [SOS2425-19](https://sos2425-19.onrender.com/)
 -  **APIs**:
-    - TBD
+    - https://sos2425-19.onrender.com/api/v1/sanctions-and-points-stats/docs (developed by Daniel Lebrero Carcela)
     - TBD
     - TBD
     
