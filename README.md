@@ -19,8 +19,8 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
 - **URL**: https://sos2425-10.onrender.com
 -  **APIs**:
     - https://sos2425-10.onrender.com/api/v1/radars-stats (developed by Ignacio Ortiz Moreno)
-    - TBD
-    - TBD
+    - https://sos2425-10.onrender.com/api/v1/registrations-stats (developed by Jesús Anzar Montero)
+    - https://sos2425-10.onrender.com/api/v1/accidents-stats (developed by Víctor José Cabrera Hurtado)
  
 ## SOS2425-11
 
