@@ -18,9 +18,9 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
 - **Repository**: [gti-sos/SOS2425-10](https://github.com/gti-sos/SOS2425-10)
 - **URL**: https://sos2425-10.onrender.com
 -  **APIs**:
-    - TBD
-    - TBD
-    - TBD
+    - https://sos2425-10.onrender.com/api/v1/radars-stats (developed by Ignacio Ortiz Moreno)
+    - https://sos2425-10.onrender.com/api/v1/registrations-stats (developed by Jesús Anzar Montero)
+    - https://sos2425-10.onrender.com/api/v1/accidents-stats (developed by Víctor José Cabrera Hurtado)
  
 ## SOS2425-11
 
@@ -32,10 +32,9 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
 - **Repository**: [gti-sos/SOS2425-11](https://github.com/gti-sos/SOS2425-11)
 - **URL**: https://sos2425-11.onrender.com/
 -  **APIs**:
-    - TBD
-    - TBD   
-    - TBD
-
+    - http://sos2425-11.onrender.com/api/v1/autonomy-dependence-applications/docs (developed by Antonio Manuel Luque Molina)
+    - http://sos2425-11.onrender.com/api/v1/social-pension-payrolls/docs (developed by Eduardo Becerra Tomé)   
+    - http://sos2425-11.onrender.com/api/v1/management-evolutions/docs (developed by Mario Tur Pantión)
  
  ## SOS2324-12
 
@@ -92,9 +91,9 @@ This comprehensive approach will contribute to the development of more efficient
 - **Repository**: [gti-sos/SOS2425-14](https://github.com/gti-sos/SOS2425-14)  
 - **URL**: https://sos2425-14.onrender.com
 - **APIs**:  
-  - TBD  
-  - TBD  
-  - TBD  
+  - https://sos2425-14.onrender.com/api/v1/education-data/docs (developed by Francisco Javier Rodríguez Martín)
+  - https://sos2425-14.onrender.com/api/v1/cybercrime-data/docs (developed by Pablo Domínguez Galván)
+  - https://sos2425-14.onrender.com/api/v1/employment-data/docs (developed by Jaime Duffy Panés)
 
 
 ## SOS2425-15
@@ -121,7 +120,7 @@ This comprehensive approach will contribute to the development of more efficient
 - **Repository**: [gti-sos/SOS2425-16](https://github.com/gti-sos/SOS2425-16)
 - **URL**: https://sos2425-16.onrender.com/
 -  **APIs**:
-    - TBD
+    - https://sos2425-16.onrender.com/api/v1/emigration-stats/docs (Developed by Gonzalo Aguilera Mancheño)
     - TBD
     - TBD
  
@@ -166,7 +165,7 @@ and the most in-demand occupations are compared, allowing assessment of their im
 - **Repository**: [gti-sos/SOS2425-19](https://github.com/gti-sos/SOS2425-19)
 - **URL**: [SOS2425-19](https://sos2425-19.onrender.com/)
 -  **APIs**:
-    - TBD
+    - https://sos2425-19.onrender.com/api/v1/sanctions-and-points-stats/docs (developed by Daniel Lebrero Carcela)
     - TBD
     - TBD
     
