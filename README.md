@@ -18,7 +18,7 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
 - **Repository**: [gti-sos/SOS2425-10](https://github.com/gti-sos/SOS2425-10)
 - **URL**: https://sos2425-10.onrender.com
 -  **APIs**:
-    - TBD
+    - https://sos2425-10.onrender.com/api/v1/radars-stats (developed by Ignacio Ortiz Moreno)
     - TBD
     - TBD
  
