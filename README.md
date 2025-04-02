@@ -152,7 +152,7 @@ and the most in-demand occupations are compared, allowing assessment of their im
 - **URL**: https://sos2425-18.onrender.com
 -  **APIs**:
     - http://sos2425-XX.onrender/api/v1/contr-mun-stats/docs (developed by Blanco Díaz Guillermo)
-    - TBD
+    - https://sos2425-18.onrender/api/v1/dana-erte-stats/docs (developed by Miguel Vázquez de la Rubia)
     - TBD
  
   ## SOS2425-19
