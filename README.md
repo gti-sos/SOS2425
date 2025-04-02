@@ -135,9 +135,9 @@ This comprehensive approach will contribute to the development of more efficient
 - **Repository**: [gti-sos/SOS2425-17](https://github.com/gti-sos/sos2425-17)
 - **URL**: [https://sos2425-17.onrender.com](https://sos2425-17.onrender.com)
 -  **APIs**:
-    - TBD 
-    - TBD
-    - TBD
+    - https://sos2425-17.onrender.com/api/v1/university-demands/docs (developed by Javier Guerrero Pérez) 
+    - http://sos2425-17.onrender.com/api/v1/students_satisfaction/docs (developed by Alejandro Gaona Penco)
+    - http://sos2425-17.onrender.com/api/v1/university-academic-performance/docs (developed by Pablo Aguza Barragán)
 
 
  ## SOS2425-18
