@@ -66,8 +66,6 @@ This comprehensive approach will contribute to the development of more efficient
 - **Repository**: [gti-sos/SOS2425-13](https://github.com/gti-sos/SOS2425-13)
 - **URL**: [sos2425-13.onrender.com](https://sos2425-13.onrender.com/)
 
-
-
 - **APIs**:  
   - https://sos2425-13.onrender.com/api/v1/water-supply-improvements/docs (developed by Blanca García Alonso)
   - https://sos2425-13.onrender.com/api/v1/national-parks/docs (developed by Darío López Villegas )
