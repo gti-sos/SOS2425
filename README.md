@@ -69,8 +69,8 @@ This comprehensive approach will contribute to the development of more efficient
 
 
 - **APIs**:  
-  - [https://sos2425-13.onrender.com/api/v1/water-supply-improvements/docs] (developed by Blanca García Alonso)
-  - [https://sos2425-13.onrender.com/api/v1/national-parks/docs] (developed by Darío López Villegas )
+  - [https://sos2425-13.onrender.com/api/v1/water-supply-improvements/docs](developed by Blanca García Alonso)
+  - [https://sos2425-13.onrender.com/api/v1/national-parks/docs](developed by Darío López Villegas )
   -  (developed by )
 
 
