@@ -182,9 +182,9 @@ Our project focuses on analyzing and visualizing traffic-related incidents in Sp
 - **URL de despliegue**: https://sos2425-20.onrender.com/
 - **URL**: TBD
 -  **APIs**:
-    - TBD
-    - TBD
-    - TBD
+    - José Calle Jiménez(https://sos2425-20.onrender.com/api/v1/traffic-accidents)
+    - Javier Andrade Castro(https://sos2425-20.onrender.com/api/v1/accidents-with-animals)
+    - Carlos Marmol Ramírez(https://sos2425-20.onrender.com/api/v1/fines)
 ## SOS2425-21
 
 - **Team**
