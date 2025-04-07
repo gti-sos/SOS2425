@@ -166,8 +166,8 @@ and the most in-demand occupations are compared, allowing assessment of their im
 - **URL**: [SOS2425-19](https://sos2425-19.onrender.com/)
 -  **APIs**:
     - https://sos2425-19.onrender.com/api/v1/sanctions-and-points-stats/docs (developed by Daniel Lebrero Carcela)
-    - TBD
-    - TBD
+    - https://sos2425-19.onrender.com/api/v1/ownerships-changes-stats/docs (developed by Julián Villaescusa Fernández)
+    - https://sos2425-19.onrender.com/api/v1/accident-rate-2023-stats/docs (developed by Mario Rodríguez Carrillo)
     
 ## SOS2425-20
 
