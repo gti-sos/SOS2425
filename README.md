@@ -106,9 +106,9 @@ This comprehensive approach will contribute to the development of more efficient
 - **Repository**: [gti-sos/SOS2425-15](https://github.com/gti-sos/SOS2425-15)
 - **URL**: https://sos2425-15.onrender.com/
 -  **APIs**:
-    - TBD
-    - TBD
-    - TBD
+   -   http://sos2425-15.onrender/api/v1/precipitation-stats/docs (developed by Manuel Jiménez Martín)
+   -   http://sos2425-15.onrender/api/v1/ocupied-grand-stats/docs (developed by Fernando Lagares Luna)
+   -   http://sos2425-15.onrender/api/v1/temperature-stats/docs (developed by Gonzalo Gavilán Turiño))
  
  ## SOS2425-16
 
