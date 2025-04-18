@@ -18,9 +18,9 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
 - **Repository**: [gti-sos/SOS2425-10](https://github.com/gti-sos/SOS2425-10)
 - **URL**: https://sos2425-10.onrender.com
 -  **APIs**:
-    - TBD
-    - TBD
-    - TBD
+    - https://sos2425-10.onrender.com/api/v1/radars-stats/docs (developed by Ignacio Ortiz Moreno)
+    - https://sos2425-10.onrender.com/api/v1/registrations-stats/docs (developed by Jesús Anzar Montero)
+    - https://sos2425-10.onrender.com/api/v1/accidents-stats/docs (developed by Víctor José Cabrera Hurtado)
  
 ## SOS2425-11
 
@@ -32,10 +32,9 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
 - **Repository**: [gti-sos/SOS2425-11](https://github.com/gti-sos/SOS2425-11)
 - **URL**: https://sos2425-11.onrender.com/
 -  **APIs**:
-    - TBD
-    - TBD   
-    - TBD
-
+    - http://sos2425-11.onrender.com/api/v1/autonomy-dependence-applications/docs (developed by Antonio Manuel Luque Molina)
+    - http://sos2425-11.onrender.com/api/v1/social-pension-payrolls/docs (developed by Eduardo Becerra Tomé)   
+    - http://sos2425-11.onrender.com/api/v1/management-evolutions/docs (developed by Mario Tur Pantión)
  
  ## SOS2324-12
 
@@ -47,9 +46,10 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
 - **Repository**: [gti-sos/SOS2425-12](https://github.com/gti-sos/SOS2425-12)
 - **URL**: [sos2425-12.onrender.com](https://sos2425-12.onrender.com/)
 -  **APIs**:
-    - TBD
-    - TBD
-    - TBD
+    - https://sos2425-12.onrender.com/api/v1/annual-consumptions/docs (developed by Gonzalo Osuna Salas)
+    - https://sos2425-12.onrender.com/api/v1/annual-retributions/docs (developed by Fernando Aguirre García)
+    - https://sos2425-12.onrender.com/api/v1/annual-evolutions/docs (developed by Clara Reina Romero)
+
 
   ## SOS2425-13
 
@@ -63,13 +63,15 @@ and its impact on environmental and social management. Through this data converg
 patterns that enhance fire prevention and response, optimize ecosystem conservation in protected areas,
 and assess the effectiveness of subsidies aimed at mitigating water scarcity in vulnerable municipalities.
 This comprehensive approach will contribute to the development of more efficient and sustainable strategies for managing water as an essential resource.
+
 - **Repository**: [gti-sos/SOS2425-13](https://github.com/gti-sos/SOS2425-13)
 - **URL**: [sos2425-13.onrender.com](https://sos2425-13.onrender.com/)
 
--  **APIs**:
-    - TBD
-    - TBD
-    - TBD
+- **APIs**:  
+  - https://sos2425-13.onrender.com/api/v1/water-supply-improvements/docs (developed by Blanca García Alonso)
+  - https://sos2425-13.onrender.com/api/v1/national-parks/docs (developed by Darío López Villegas )
+  -  (developed by )
+
 
 ## SOS2425-14
 
@@ -90,9 +92,9 @@ This comprehensive approach will contribute to the development of more efficient
 - **Repository**: [gti-sos/SOS2425-14](https://github.com/gti-sos/SOS2425-14)  
 - **URL**: https://sos2425-14.onrender.com
 - **APIs**:  
-  - TBD  
-  - TBD  
-  - TBD  
+  - https://sos2425-14.onrender.com/api/v1/education-data/docs (developed by Francisco Javier Rodríguez Martín)
+  - https://sos2425-14.onrender.com/api/v1/cybercrime-data/docs (developed by Pablo Domínguez Galván)
+  - https://sos2425-14.onrender.com/api/v1/employment-data/docs (developed by Jaime Duffy Panés)
 
 
 ## SOS2425-15
@@ -105,9 +107,9 @@ This comprehensive approach will contribute to the development of more efficient
 - **Repository**: [gti-sos/SOS2425-15](https://github.com/gti-sos/SOS2425-15)
 - **URL**: https://sos2425-15.onrender.com/
 -  **APIs**:
-    - TBD
-    - TBD
-    - TBD
+   -   http://sos2425-15.onrender/api/v1/precipitation-stats/docs (developed by Manuel Jiménez Martín)
+   -   http://sos2425-15.onrender/api/v1/ocupied-grand-stats/docs (developed by Fernando Lagares Luna)
+   -   http://sos2425-15.onrender/api/v1/temperature-stats/docs (developed by Gonzalo Gavilán Turiño))
  
  ## SOS2425-16
 
@@ -119,9 +121,9 @@ This comprehensive approach will contribute to the development of more efficient
 - **Repository**: [gti-sos/SOS2425-16](https://github.com/gti-sos/SOS2425-16)
 - **URL**: https://sos2425-16.onrender.com/
 -  **APIs**:
-    - TBD
-    - TBD
-    - TBD
+    - https://sos2425-16.onrender.com/api/v1/emigration-stats/docs (Developed by Gonzalo Aguilera Mancheño)
+    - https://sos2425-16.onrender.com/api/v1/taxes-stats/docs (Developed by Iván Barbero Lay)
+    - https://sos2425-16.onrender.com/api/v1/unemployment-stats/docs (Developed by Pablo Viña Santa Cruz)
  
 
   ## SOS2425-17
@@ -134,9 +136,9 @@ This comprehensive approach will contribute to the development of more efficient
 - **Repository**: [gti-sos/SOS2425-17](https://github.com/gti-sos/sos2425-17)
 - **URL**: [https://sos2425-17.onrender.com](https://sos2425-17.onrender.com)
 -  **APIs**:
-    - TBD 
-    - TBD
-    - TBD
+    - https://sos2425-17.onrender.com/api/v1/university-demands/docs (developed by Javier Guerrero Pérez) 
+    - http://sos2425-17.onrender.com/api/v1/students_satisfaction/docs (developed by Alejandro Gaona Penco)
+    - http://sos2425-17.onrender.com/api/v1/university-academic-performance/docs (developed by Pablo Aguza Barragán)
 
 
  ## SOS2425-18
@@ -150,9 +152,9 @@ and the most in-demand occupations are compared, allowing assessment of their im
 - **Repository**: [gti-sos/SOS2425-18](https://github.com/gti-sos/SOS2425-18)
 - **URL**: https://sos2425-18.onrender.com
 -  **APIs**:
-    - TBD
-    - TBD
-    - TBD
+    - http://sos2425-18.onrender.com/api/v1/contr-mun-stats/docs (developed by Blanco Díaz Guillermo)
+    - https://sos2425-18.onrender.com/api/v1/dana-erte-stats/docs (developed by Miguel Vázquez de la Rubia)
+    - https://sos2425-18.onrender.com/api/v1/dana-grants-subsidies-stats/docs (developed by Miguel Ángel Domínguez Ciero)
  
   ## SOS2425-19
 
@@ -164,9 +166,9 @@ and the most in-demand occupations are compared, allowing assessment of their im
 - **Repository**: [gti-sos/SOS2425-19](https://github.com/gti-sos/SOS2425-19)
 - **URL**: [SOS2425-19](https://sos2425-19.onrender.com/)
 -  **APIs**:
-    - TBD
-    - TBD
-    - TBD
+    - https://sos2425-19.onrender.com/api/v1/sanctions-and-points-stats/docs (developed by Daniel Lebrero Carcela)
+    - https://sos2425-19.onrender.com/api/v1/ownerships-changes-stats/docs (developed by Julián Villaescusa Fernández)
+    - https://sos2425-19.onrender.com/api/v1/accident-rate-stats/docs (developed by Mario Rodríguez Carrillo)
     
 ## SOS2425-20
 
@@ -181,23 +183,22 @@ Our project focuses on analyzing and visualizing traffic-related incidents in Sp
 - **URL de despliegue**: https://sos2425-20.onrender.com/
 - **URL**: TBD
 -  **APIs**:
-    - TBD
-    - TBD
-    - TBD
+    - José Calle Jiménez(https://sos2425-20.onrender.com/api/v1/traffic-accidents)
+    - Javier Andrade Castro(https://sos2425-20.onrender.com/api/v1/accidents-with-animals)
+    - Carlos Marmol Ramírez(https://sos2425-20.onrender.com/api/v1/fines)
 ## SOS2425-21
 
 - **Team**
   - Paula Ruiz Gardón (https://github.com/pauruigar6)
   - Andrea Gómez Balmaseda (https://github.com/andgombal)
   - Laura Eraso Lorenzo (https://github.com/laueralor)
-  - Alejandro Morilla García (https://github.com/aaleejandro01)
 - **Project description**: Our project consists of analyzing the relationship between official data on urban bus transportation usage, the celebration of cultural events, and the buying and selling of homes in Spain.
 - **Repository**: [gti-sos/SOS2425-21](https://github.com/orgs/gti-sos/teams/sos2425-21)
 - **URL**: https://sos2425-21.onrender.com
 -  **APIs**:
-    - TBD
-    - TBD
-    - TBD
+    - http://sos2425-21.onrender/api/v1/public-transit-stats/docs (developed by Andrea Gómez Balmaseda)
+    - http://sos2425-21.onrender.com/api/v1/ome-buying-selling-stats/docs (developed by Laura Eraso Lorenzo)
+    - http://sos2425-21.onrender.com/api/v1/cultural-event/docs (developed by Paula Ruiz Gardón)
 
 ## SOS2425-22
 
@@ -209,6 +210,6 @@ Our project focuses on analyzing and visualizing traffic-related incidents in Sp
 - **Repository**: [gti-sos/SOS2425-22](https://github.com/orgs/gti-sos/teams/sos2425-22)
 - **URL**: [https://sos2425-22.onrender.com/](https://sos2425-22.onrender.com/)
 -  **APIs**:
-    - TBD
-    - TBD
+    - [http://sos2425-22.onrender.com/api/v1/missing-people-stats/docs](http://sos2425-22.onrender.com/api/v1/missing-people-stats/docs) (developed by Alejandro Morilla García)
+    - [http://sos2425-22.onrender.com/api/v1/ministry-of-justice-in-zaragoza/docs](http://sos2425-22.onrender.com/api/v1/ministry-of-justice-in-zaragoza/docs) (developed by Juan Manuel Ríos López)
     - TBD
