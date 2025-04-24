@@ -48,7 +48,7 @@ List of projects registered in the course of **Service Oriented Systems** (2023/
 - **URL**: [sos2425-12.onrender.com](https://sos2425-12.onrender.com/)
 -  **APIs**:
     - https://sos2425-12.onrender.com/api/v1/annual-consumptions/docs (developed by Gonzalo Osuna Salas)
-    - https://sos2425-12.onrender.com/api/v1/annual-retributions/docs (developed by Fernando Aguirre García)
+    - https://sos2425-12.onrender.com/api/v2/annual-retributions/docs (developed by Fernando Aguirre García)
     - https://sos2425-12.onrender.com/api/v1/annual-evolutions/docs (developed by Clara Reina Romero)
 
 
