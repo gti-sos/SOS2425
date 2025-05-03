@@ -84,9 +84,9 @@ This comprehensive approach will contribute to the development of more efficient
 - **Project description**:  
   This project aims to analyze three datasets to identify potential correlations and trends between different socioeconomic factors. The datasets include:
 
-  - **Labor Market Data**: Covers unemployment rates, employment rates, and activity rates of the active population.  
-  - **Education Enrollment Data**: Includes enrollment rates in Basic Vocational Training, Intermediate Vocational Training, and Higher Vocational Training.  
-  - **Crime and Cybercrime Data**: Displays the total number of criminal offenses, cybercrime-related incidents, and arrests or investigations related to cybercrime.  
+  - **employment-data**: Covers unemployment rates, employment rates, and activity rates of the active population.  
+  - **education-data**: Includes enrollment rates in Basic Vocational Training, Intermediate Vocational Training, and Higher Vocational Training.  
+  - **cybercrime-data**: Displays the total number of criminal offenses, cybercrime-related incidents, and arrests or investigations related to cybercrime.  
 
   The analysis will provide insights into how these factors may be interconnected and their potential social implications.
 
