@@ -214,3 +214,14 @@ Our project focuses on analyzing and visualizing traffic-related incidents in Sp
     - [http://sos2425-22.onrender.com/api/v1/missing-people-stats/docs](http://sos2425-22.onrender.com/api/v1/missing-people-stats/docs) (developed by Alejandro Morilla García)
     - [http://sos2425-22.onrender.com/api/v1/ministry-of-justice-in-zaragoza/docs](http://sos2425-22.onrender.com/api/v1/ministry-of-justice-in-zaragoza/docs) (developed by Juan Manuel Ríos López)
     - TBD
+
+---
+
+# sos2425-jul-prg
+
+- **Team**
+  - Paula Ruiz Gardón (https://github.com/pauruigar6)
+- **Project description**: This project analyzes the distribution, frequency, and regional characteristics of cultural events celebrated across Spain.
+- **Repository**: [GitHub Repository – gti-sos/sos2425-jul-prg](https://github.com/gti-sos/sos2425-jul-prg)
+- **URL**: - *Pending deployment or to be updated*
+- **API Documentation**: [Cultural Events API (v1)](http://sos2425-21.onrender.com/api/v1/cultural-event/docs) – Developed by Paula Ruiz Gardón
