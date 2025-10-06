@@ -226,6 +226,8 @@ Our project focuses on analyzing and visualizing traffic-related incidents in Sp
 - **URL**: - *Pending deployment or to be updated*
 - **API Documentation**: [Cultural Events API (v1)](http://sos2425-21.onrender.com/api/v1/cultural-event/docs) – Developed by Paula Ruiz Gardón
 
+---
+
   
 # SOS2425-JUL-MTP
 
@@ -235,4 +237,19 @@ Our project focuses on analyzing and visualizing traffic-related incidents in Sp
 - **Repository**: [gti-sos/SOS2425-JUL-MTP](https://github.com/gti-sos/SOS2425-JUL-MTP)
 - **URL**: https://sos2425-JUL-MTP.onrender.com/
 -  **API**: http://sos2425-JUL-MTP.onrender.com/api/v1/management-evolutions/docs
-   
+
+
+---
+
+
+# sos2425-OCT-AMN
+
+- **Team**
+  - Álvaro Morillo Navajas (https://github.com/alvmornav)
+- **Project description**: My project focuses on the innovative analysis of forest fire data, integrating it with information from other sources, 
+       which I access through the APIs of my classmates from the SOS course. My main goal is to identify patterns and connections to better understand 
+       the causes and impact of fires in Spain, and thus improve prevention and response to these emergencies that affect our ecosystems every year. 
+       This will contribute to the development of more efficient and sustainable fire management strategies
+- **Repository**: [GitHub Repository – gti-sos/sos2425-oct-amn](https://github.com/gti-sos/sos2425-oct-amn)
+- **URL**: https://sos2425-oct-amn.onrender.com/
+- **API Documentation**: [Cultural Events API (v1)(https://sos2425-OCT-AMN.onrender.com/api/v1/forest-fires/docs) 
