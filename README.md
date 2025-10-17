@@ -252,4 +252,4 @@ Our project focuses on analyzing and visualizing traffic-related incidents in Sp
        This will contribute to the development of more efficient and sustainable fire management strategies
 - **Repository**: [GitHub Repository – gti-sos/sos2425-oct-amn](https://github.com/gti-sos/sos2425-oct-amn)
 - **URL**: https://sos2425-oct-amn.onrender.com/
-- **API Documentation**: [Cultural Events API (v1)(https://sos2425-OCT-AMN.onrender.com/api/v1/forest-fires/docs) 
+- **API Documentation**: https://sos2425-OCT-AMN.onrender.com/api/v1/forest-fires/docs
