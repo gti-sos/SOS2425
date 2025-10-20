@@ -253,3 +253,16 @@ Our project focuses on analyzing and visualizing traffic-related incidents in Sp
 - **Repository**: [GitHub Repository – gti-sos/sos2425-oct-amn](https://github.com/gti-sos/sos2425-oct-amn)
 - **URL**: https://sos2425-oct-amn.onrender.com/
 - **API Documentation**: https://sos2425-OCT-AMN.onrender.com/api/v1/forest-fires/docs
+
+
+---
+
+
+# sos2425-OCT-AMG
+
+- **Team**
+- [Alejandro Morilla García](https://github.com/aaleejandro01)
+- **Project description**: The project provides open data and API endpoints about missing people in Spain between 2017 and 2021 in each province.
+- **Repository**: [GitHub Repository – gti-sos/sos2425-oct-amg](https://github.com/gti-sos/sos2425-oct-amg)
+- **URL**: [Missing People Stats Project ](https://sos2425-oct-amg.onrender.com/)
+- **API Documentation**: [Missing People Stats API (v2)](https://documenter.getpostman.com/view/33043526/2sB2cUBP8d) 
